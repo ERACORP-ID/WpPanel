@@ -60,11 +60,11 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "ZassXdOfficial"
+echo "ZeroPanelAutoInstall"
 echo "AUTO INSTALL THEME"
 echo ""
-echo "Wa: +63 821-2614-8789"
-echo "Nama: ZassXdOfficial"
+echo "Web : www.zeroindo.eu.org"
+echo "Nama: ZeroGanzXD"
 echo ""
 echo "[1] Install theme"
 echo "[2] Restore backup"
